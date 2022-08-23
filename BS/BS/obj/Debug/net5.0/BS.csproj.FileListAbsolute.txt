@@ -1,0 +1,16 @@
+C:\Users\karin\source\repos\BS\BS\bin\Debug\net5.0\BS.exe
+C:\Users\karin\source\repos\BS\BS\bin\Debug\net5.0\BS.deps.json
+C:\Users\karin\source\repos\BS\BS\bin\Debug\net5.0\BS.runtimeconfig.json
+C:\Users\karin\source\repos\BS\BS\bin\Debug\net5.0\BS.runtimeconfig.dev.json
+C:\Users\karin\source\repos\BS\BS\bin\Debug\net5.0\BS.dll
+C:\Users\karin\source\repos\BS\BS\bin\Debug\net5.0\ref\BS.dll
+C:\Users\karin\source\repos\BS\BS\bin\Debug\net5.0\BS.pdb
+C:\Users\karin\source\repos\BS\BS\obj\Debug\net5.0\BS.csproj.AssemblyReference.cache
+C:\Users\karin\source\repos\BS\BS\obj\Debug\net5.0\BS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karin\source\repos\BS\BS\obj\Debug\net5.0\BS.AssemblyInfoInputs.cache
+C:\Users\karin\source\repos\BS\BS\obj\Debug\net5.0\BS.AssemblyInfo.cs
+C:\Users\karin\source\repos\BS\BS\obj\Debug\net5.0\BS.csproj.CoreCompileInputs.cache
+C:\Users\karin\source\repos\BS\BS\obj\Debug\net5.0\BS.dll
+C:\Users\karin\source\repos\BS\BS\obj\Debug\net5.0\ref\BS.dll
+C:\Users\karin\source\repos\BS\BS\obj\Debug\net5.0\BS.pdb
+C:\Users\karin\source\repos\BS\BS\obj\Debug\net5.0\BS.genruntimeconfig.cache
